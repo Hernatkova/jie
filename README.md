@@ -1,0 +1,1 @@
+﻿wget -N https://raw.githubusercontent.com/Hernatkova/jie/master/gost.sh && bash gost.sh
